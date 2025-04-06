@@ -42,4 +42,4 @@ W obecnej wersji projektu **nie udało się w pełni zaimplementować bazy danyc
 ## Autor
 
 Imię i nazwisko: Kacper Karkosz  
-Grupa: [.NET][CZ 15:15][CZ 17:05]  
+Grupa: [.NET][CZ 15:15][LAB2]  
